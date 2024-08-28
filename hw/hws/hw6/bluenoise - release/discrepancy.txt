@@ -1,0 +1,3 @@
+SampleByThreshold, 9.868939925272713e-05
+SampleByWindow, 1.2312389994884043e-05
+PoissonDiskSampling, 1.731108929914349e-05
